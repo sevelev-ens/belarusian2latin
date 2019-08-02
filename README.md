@@ -41,7 +41,7 @@ Numerous examples of valid Belarusian Latin texts: [Lacinka — Teksty](https://
 
 > Фанетыка беларускай літатурнай мовы / І. Р. Бурлыка, Л. Ц. Выгонная, Г. В. Лосік, А. І. Падлужны; Рэд. А. І. Падлужны. — Мн.:Навука і тэхніка, 1989. — 335 с ISBN 5-343-00292-7
 
-Нам вядомыя наступныя праекты канвертараў: [Слоўнік.орг](http://slounik.org/lat), [БалтаСлаў](http://baltoslav.eu/lat/), [Драўляны Зэдлік](http://www.zedlik.com/pragramy/kir2lac-online/). На жаль, яны не маюць плёну. Па стане на 2 жніўняя 2019, кожны з іх выдаваў няслушны рэзультат у дачыненні ўжо першага пункта згаданага вышэй спісу — правільнага перадавання фанем: увод “снег, здзяйсняецца” не выдае “śnieh, ździajśniajecca”.
+Нам вядомыя наступныя праекты канвертараў: [Слоўнік.орг](http://slounik.org/lat), [БалтаСлаў](http://baltoslav.eu/lat/), [Драўляны Зэдлік](http://www.zedlik.com/pragramy/kir2lac-online/). На жаль, яны не маюць плёну. Па стане на 2 жніўня 2019, кожны з іх выдаваў няслушны рэзультат у дачыненні ўжо першага пункта згаданага вышэй спісу — правільнага перадавання фанем: увод “снег, здзяйсняецца” не выдае “śnieh, ździajśniajecca”.
 
 Генератар транскрыпцый [Лабараторыі распазнавання і сінтэзу маўлення](https://www.corpus.by/TranscriptionGenerator/?lang=be) Акадэміі Навук Беларусі прымае толькі размечаны тэкст і на выхадзе дае фанетычную [···], а не фанематычную  /···/ транскрыпцыю.  Генератар транслітэрацый [Philology.by](https://tools.philology.by/latbe), выкананы [Аляксеям Яскевічам](https://yaskevich.com/) таксама ставіць сабе іншую праграму на мэту.
 
@@ -51,40 +51,3 @@ Numerous examples of valid Belarusian Latin texts: [Lacinka — Teksty](https://
 ## Прыклады правадзейных тэкстаў
 
 Шматлікія прыклады правадзейных (валідных, англ. valid) беларускіх тэкстаў лацінкай: [Lacinka — Teksty](https://lacinka.teksty.seveleu.com/)
-
-
-
-
-
-
-
-
-
-
-# Bielaruskaje apisańnie
-
-Pieršy z viadomych nam kanviertar bielaruskaj kiryličnaj hrafiki ŭ lacinskuju, što adpaviadaje nastupnym patrabavańniam:
- - nadaje absaliutny prymat praviĺnaści paśliadoŭnaha pieradańnia bielaruskich fanietyčnych źjaŭ. Pierš za ŭsio heta datyčycca:
-   - rehresiŭnaj palatalizacyi (pamiakčeńnia), napryklad, slova /s<sup>j</sup>n<sup>j</sup>ɛɣ/ pavinna pieradavacca «śnieh», a nie «snieh». Zvyšpamiakčeńnie zubnych (t.zvzv. «dziekańnie», «ciekańnie») — admietnaja rysa bielaruskaj movy, archivažna paśliadoŭna i **sistematyčna** adliustroŭvać hetuju asablivaść na piśmie. 
-   - paturaĺnickaha (laksisckaha) dačynieńnia aficyjnaj kiryličnaj hrafiki da litary «h»: jana moža abaznačać faniemy /ɣ<sup>(j)</sup>/ ci /g<sup>(j)</sup>/ biez nijakaha dadatkovaha raźmiežavańnia:  “historyja”/“huzik”);
-   - paturaĺnickaha (laksisckaha) dačynieńnia aficyjnaj kiryličnaj hrafiki da litary «i»: jana moža abaznačać faniemu /i/ ci dyftonh /ji/ biez nijakaha dadatkovaha raźmiežavańnia. Dźvie hetyja roznyja faniemy pa-roznamu zadziejničajuć miechanizm palatalizacyi (pamiakčeńnia): “im”/“intehraĺny” → “z im”/“z intehraĺnaha” /i→y/ /ji→<sup>(j)</sup>i/;
-   - paturaĺnickaha (laksisckaha) dačynieńnia aficyjnaj kiryličnaj hrafiki da litary «je»: u zapazyčanych slovach jana moža abaznačać prysutnaść ci adsutnaść palatalizacyi (pamiakčeńnia) papiaredniaha zyčnaha biez nijakaha dadatkovaha raźmiežavańnia: “vielasipied”/“Avie Maryja” /v/ i /v<sup>(j)</sup>/;
-- adpaviadaje aficyjaĺnaj dziaržaŭnaj [Instrukcyi](https://be.wikipedia.org/wiki/%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%8B%D1%8F_%D0%BF%D0%B0_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%96%D1%82%D0%B0%D1%80%D0%B0%D1%86%D1%8B%D1%96) vykarystoŭvać azbuku «abcćčdefhijklĺmnńoprsśštuŭvyzžź» i [standartu AAN](https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/crp/9th_UNCSGN_e-conf-98-crp-21.pdf), zasnovannym na joj;
- - adpaviadaje [aficyjaĺnym Pravilam bielaruskaj arfahrafii i punktuacyi](https://be.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D1%96%D0%BB%D1%8B_%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D0%B9_%D0%B0%D1%80%D1%84%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%96_%D1%96_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%83%D0%B0%D1%86%D1%8B%D1%96_(2008)).
-
-Pry abmierkavańni bielaruskaj fanietyki my pierš za ŭsio kirujemsia jaje kadyfikavanym apisańniem u nastupnym vydańni:
-
-> Fanietyka bielaruskaj litaturnaj movy / I. R. Burlyka, L. C. Vyhonnaja, H. V. Losik, A. I. Padlužny; Red. A. I. Padlužny. — Mn.:Navuka i technika, 1989. — 335 s ISBN 5-343-00292-7
-
-Nam viadomyja nastupnyja prajekty kanviertaraŭ: [Sloŭnik.orh](http://slounik.org/lat), [BaltaSlaŭ](http://baltoslav.eu/lat/), [Draŭliany Zedlik](http://www.zedlik.com/pragramy/kir2lac-online/). Na žaĺ, jany nie majuć plionu. Pa stanie na 2 žniŭniaja 2019, kožny z ich vydavaŭ niaslušny rezuĺtat u dačynieńni ŭžo pieršaha punkta zhadanaha vyšej śpisu — praviĺnaha pieradavańnia faniem: uvod “śnieh, ździajśniajecca” nie vydaje “śnieh, ździajśniajecca”.
-
-Hienieratar transkrypcyj [Labaratoryi raspaznavańnia i sintezu maŭlieńnia](https://www.corpus.by/TranscriptionGenerator/?lang=be) Akademii Navuk Bielarusi prymaje toĺki raźmiečany tekst i na vychadzie daje fanietyčnuju [···], a nie faniematyčnuju  /···/ transkrypcyju.  Hienieratar tranśliteracyj [Philology.by](https://tools.philology.by/latbe), vykanany [Aliaksiejam Jaśkievičam](https://yaskevich.com/) taksama stavić sabie inšuju prahramu na metu.
-
-## Anlajn pratatyp
-[Belarusian Cyrillic to Latin converter](https://seveleu.com/lacinka/converter)
-
-## Pryklady pravadziejnych tekstaŭ
-
-Šmatlikija pryklady pravadziejnych (validnych, anhl. valid) bielaruskich tekstaŭ lacinkaj: [Lacinka — Teksty](https://lacinka.teksty.seveleu.com/)
-
-
