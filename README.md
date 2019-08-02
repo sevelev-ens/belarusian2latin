@@ -4,7 +4,7 @@
 
 First, to our knowledge, Belarusian Cyrillic to Latin converter that
  - systematically cares to render Belarusian phonology correctly. In concerns, i.e.,
-   - the regressive palatalization issue (i.e. /s<sup>j</sup>n<sup>j</sup>ɛɣ/ is rendered “śnieh“ and not “snieh”). Overpalatalized dentals constituting a characteristic feature of Belarusan (so-called “dziekańnie”, “ciekańnie”), it is primordial to rendering them correctly **systematically**; 
+   - the regressive palatalization issue (i.e. /s<sup>j</sup>n<sup>j</sup>ɛɣ/ is rendered “śnieh“ and not “snieh”). Overpalatalized dentals constituting a characteristic feature of Belarusan (so-called “dziekańnie”, “ciekańnie”), it is primordial to render them correctly **systematically**; 
    - the laxist graphic convention of the official Cyrillic system as to the letter «г»: may denote /ɣ<sup>(j)</sup>/ or /g<sup>(j)</sup>/ with no evident pattern: “гісторыя”/“гузік”);
    - the laxist graphic convention of the official Cyrillic system as to the letter «і»: may denote /і/ or /jі/ with no evident pattern trigerring two different palatalization patterns: “ім”/“інтэгральны” → “з ім”/“з інтэгральнага” /і→ы/ /jі→<sup>(j)</sup>i/;
    - the laxist graphic convention of the official Cyrillic system as to the letter «e»: in borrowed words, it may confer or not palatalization to the previous consonant with no evident pattern: “веласіпед”/“Аве Марыя” /v/ and /v<sup>(j)</sup>i/;
