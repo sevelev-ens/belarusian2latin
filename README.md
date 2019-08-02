@@ -20,4 +20,8 @@ We are aware of the following toy converters: [Sloŭnik.org](http://slounik.org/
 The transcription generator by the [Speech Analysis and Recognition Lab](https://www.corpus.by/TranscriptionGenerator/?lang=be) of the Belarusan Academy of Sciences only deals with tagged text and produces phonetic [···], not phonematic /···/ transcriptions.  The transcription generator [Philology.by](https://tools.philology.by/latbe) by [Alyaxey Yaskevich](https://yaskevich.com/)  pursues another objective as well.
 
 ## On-line demo
-[Belarusian Cyrillic to Latin converter](https://seveleu.com/lacinka/converter).
+[Belarusian Cyrillic to Latin converter](https://seveleu.com/lacinka/converter)
+
+## Examples of valid texts
+
+Numerous examples of valid Belarusian Latin texts: [Lacinka — Teksty](https://lacinka.teksty.seveleu.com/)
