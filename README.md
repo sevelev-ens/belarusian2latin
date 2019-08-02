@@ -17,5 +17,5 @@ We thoroughly follow the Belarusian phonology description as given at:
 
 We are aware of the following toy converters: [Sloŭnik.org](http://slounik.org/lat), [Baltoslav](http://baltoslav.eu/lat/), [Draŭliany Zedlik](http://www.zedlik.com/pragramy/kir2lac-online/). As of Aug  02, 2019, all of them fail to render correctly the phonemes (try: “снег, здзяйсняецца” (not) to obtain “śnieh, ździajśniajecca”).
 
-The transcription generator by the [Speech Analysis and Recognition Lab](https://www.corpus.by/TranscriptionGenerator/?lang=be) Belarusan Academy of Sciences only deals with tagged text and produces phonetic [···], not phonematic /···/ transcriptions.  The transcription generator [Philology.by](https://tools.philology.by/latbe) by [Alyaxey Yaskevich](https://yaskevich.com/)  pursues another objective as well.
+The transcription generator by the [Speech Analysis and Recognition Lab](https://www.corpus.by/TranscriptionGenerator/?lang=be) of the Belarusan Academy of Sciences only deals with tagged text and produces phonetic [···], not phonematic /···/ transcriptions.  The transcription generator [Philology.by](https://tools.philology.by/latbe) by [Alyaxey Yaskevich](https://yaskevich.com/)  pursues another objective as well.
 
