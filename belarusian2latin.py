@@ -126,6 +126,6 @@ def belarusian2latin(source):
     txt = re.sub(r'Ы', r'Y', txt)
     txt = re.sub(r'Э', r'E', txt)
     txt = re.sub(r'¤', r'i', txt)
-    txt = re.sub(r'◊', r'654654654', txt)
+    txt = re.sub(r'◊', r'3333333', txt)
 
     return txt
