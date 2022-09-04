@@ -13,7 +13,7 @@ First, to our knowledge, Belarusian Cyrillic to Latin converter that
 
 We thoroughly follow the Belarusian phonology description as given at:
 
-> Фанетыка беларускай літатурнай мовы / І. Р. Бурлыка, Л. Ц. Выгонная, Г. В. Лосік, А. І. Падлужны; Рэд. А. І. Падлужны. — Мн.:Навука і тэхніка, 1989. — 335 с ISBN 5-343-00292-7
+> Фанетыка беларускай літатурнай мовы / І. Р. Булыка, Л. Ц. Выгонная, Г. В. Лосік, А. І. Падлужны; Рэд. А. І. Падлужны. — Мн.:Навука і тэхніка, 1989. — 335 с ISBN 5-343-00292-7
 
 We are aware of the following toy converters: [Sloŭnik.org](http://slounik.org/lat), [Baltoslav](http://baltoslav.eu/lat/), [Draŭliany Zedlik](http://www.zedlik.com/pragramy/kir2lac-online/), [Dobrapis](http://dobrapis.belsat.eu/convert.html). As of Aug  02, 2019, all of them fail to render correctly the phonemes (try: “снег, здзяйсняецца” (not) to obtain “śnieh, ździajśniajecca”).
 
@@ -39,7 +39,7 @@ Numerous examples of valid Belarusian Latin texts: [Lacinka — Teksty](https://
 
 Пры абмеркаванні беларускай фанетыкі мы перш за ўсё кіруемся яе кадыфікаваным апісаннем у наступным выданні:
 
-> Фанетыка беларускай літатурнай мовы / І. Р. Бурлыка, Л. Ц. Выгонная, Г. В. Лосік, А. І. Падлужны; Рэд. А. І. Падлужны. — Мн.:Навука і тэхніка, 1989. — 335 с ISBN 5-343-00292-7
+> Фанетыка беларускай літатурнай мовы / І. Р. Булыка, Л. Ц. Выгонная, Г. В. Лосік, А. І. Падлужны; Рэд. А. І. Падлужны. — Мн.:Навука і тэхніка, 1989. — 335 с ISBN 5-343-00292-7
 
 Нам вядомыя наступныя праекты канвертараў: [Слоўнік.орг](http://slounik.org/lat), [БалтаСлаў](http://baltoslav.eu/lat/), [Драўляны Зэдлік](http://www.zedlik.com/pragramy/kir2lac-online/), [Добрапіс](http://dobrapis.belsat.eu/convert.html). На жаль, яны не маюць плёну. Па стане на 2 жніўня 2019, кожны з іх выдаваў няслушны рэзультат у дачыненні ўжо першага пункта згаданага вышэй спісу — правільнага перадавання фанем: увод “снег, здзяйсняецца” не выдае “śnieh, ździajśniajecca”.
 
